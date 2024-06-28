@@ -6,5 +6,5 @@ I'm Yogesh, a dedicated Data Scientist with a knack for translating complex data
 
 **Contact** : 8778939964
 
-Feel free to explore my projects and repositories. Contributions, feedback, and collaboration are always welcome!
+Feel free to explore my projects and repositories. Feedback, and collaboration are always welcome!
 
