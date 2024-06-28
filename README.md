@@ -42,6 +42,7 @@ Cloud and DevOps: AWS (EC2, S3, SageMaker), Docker
 Frameworks and Tools: Streamlit, Flask, Jupyter Notebook, VS Code, Google Colab
 
 **Certifications and Achievements**
+
 Certifications: YOSANAIANGATI-AI PVT LTD - Inhouse Product Development, Rotary Club - Entrepreneurship Camp.
 Achievements: 5th Place Anna University Rank Holder.
 
