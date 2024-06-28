@@ -6,14 +6,6 @@ I am Yogesh, a dedicated Data Scientist with a knack for translating complex dat
 
 **Contact** : 8778939964
 
-**Skills and Technologies**
--  Programming Languages: Python, SQL
--  Data Analysis and Visualization: Pandas, Seaborn, Plotly, Matplotlib
--  Machine Learning and Deep Learning: TensorFlow, Keras, PyTorch, Scikit-learn
--  NLP: NLTK, spaCy
--  Cloud and DevOps: AWS (EC2, S3, SageMaker), Docker
--  Frameworks and Tools: Streamlit, Flask, Jupyter Notebook, VS Code, Google Colab, Spyder
-
 **Certifications and Achievements**
 
 Certifications: YOSANAIANGATI-AI PVT LTD - Inhouse Product Development, Rotary Club - Entrepreneurship Camp.
